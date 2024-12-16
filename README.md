@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # ATS Resume Expert
 
 This project is a web application designed to help users improve their resumes by providing feedback on how well their resumes align with a given job description. It leverages the power of Google Gemini to analyze resumes and provide actionable insights.
@@ -45,3 +52,16 @@ Contributions are welcome! If you have any ideas or suggestions, feel free to op
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[contributors-shield]: https://img.shields.io/github/contributors/khawslee/ATS-Resume-Score.svg?style=for-the-badge
+[contributors-url]: https://github.com/khawslee/ATS-Resume-Score/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/khawslee/ATS-Resume-Score.svg?style=for-the-badge
+[forks-url]: https://github.com/khawslee/ATS-Resume-Score/network/members
+[stars-shield]: https://img.shields.io/github/stars/khawslee/ATS-Resume-Score.svg?style=for-the-badge
+[stars-url]: https://github.com/khawslee/ATS-Resume-Score/stargazers
+[issues-shield]: https://img.shields.io/github/issues/khawslee/ATS-Resume-Score.svg?style=for-the-badge
+[issues-url]: https://github.com/khawslee/ATS-Resume-Score/issues
+[license-shield]: https://img.shields.io/github/license/khawslee/ATS-Resume-Score.svg?style=for-the-badge
+[license-url]: https://github.com/khawslee/ATS-Resume-Score/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/khawslee
