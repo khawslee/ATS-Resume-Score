@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# ATS Resume Expert
+# ATS Resume Score System
 
 This project is a web application designed to help users improve their resumes by providing feedback on how well their resumes align with a given job description. It leverages the power of Google Gemini to analyze resumes and provide actionable insights.
 
